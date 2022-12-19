@@ -2,7 +2,7 @@
 
 ## Hey <img src="wave.gif" width="30px">, Nice to see you.
 
-<p>Welcome to my page! </br> I'm Nikola Arsic, Senior Full Stack developer & consultant
+<p>I'm <strong>Nikola Arsic Arsa</strong>, Senior Full Stack developer & consultant
 
 ## <img src="blob-sunglasses.gif" width="30px"> About Me:
 <p>I have worked in the IT industry for 7 years, ultimately gaining experience in SEO optimization, Front-End development, and Back-End development. I am a graduate engineer in informatics and computer science, and my profession is a programmer.
