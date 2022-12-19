@@ -37,7 +37,7 @@
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsapoz&theme=vue-dark&hide_border=true&langs_count=10&layout=compact" /></a>
 <br>
 
-## &#x270d; Article & Survey Paper:
+## &#x270d; Article about me:
 <ul>
     <li><a href="https://www.rts.rs/page/magazine/sr/story/1882/tehnologija/3165232/odrzan-studentski-hakaton--megdan-u-resavanju-poslovnih-problema.html"><b> SymOrg Case Study Hackathon - First place won  </b><br></a><p> 09. JUN 2018, 12:46 - RTS</p></li>
     
