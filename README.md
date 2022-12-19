@@ -43,16 +43,8 @@
 
 ## &#x270d; Article & Survey Paper:
 <ul>
-    <li><a href="http://techiesgazette.marwadiuniversity.ac.in/?p=1082"><b> Gaming on Google</b><br></a><p>Jun 15, 2019 - Marwadi University</p></li>
-    <li><a href="http://techiesgazette.marwadiuniversity.ac.in/?p=380"><b> Programming without XAMPP & WAMP</b></a><br><p>Mar 15, 2019 - Marwadi University</p></li>
-    <li><a href="https://ieeexplore.ieee.org/document/7724909?section=abstract"><b> A Survey on Data Center Network Virtualization</b><br></a><p>Mar 16, 2016  - IEEE Xplore Digital Library</p></li>
-    <li><a href="http://ijana.in/Special%20Issue/17.pdf"><b> Live Experiments Depicting SQL Injection Attacks</b></a><br><p>Oct 2015 - International Journal of Advanced Netwrking Application</p></li>
-</ul>
-
-## 🌱 Currently Learning: 
-<ul>
-    <li>React</li>
-    <li>Vue JS</li>
+    <li><a href="https://www.rts.rs/page/magazine/sr/story/1882/tehnologija/3165232/odrzan-studentski-hakaton--megdan-u-resavanju-poslovnih-problema.html"><b> SymOrg Case Study Hackathon - First place won  </b><br></a><p> 09. JUN 2018, 12:46 - RTS</p></li>
+    
 </ul>
 
 ## 💬 Ask me about: 
