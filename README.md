@@ -3,6 +3,10 @@
 ## Hey <img src="wave.gif" width="30px">, Nice to see you.
 
 <p>Welcome to my page! </br> I'm Nikola Arsic, Senior Full Stack developer & consultant from <b>Belgrade, Serbia</b>. Currently working remotely for full time. </p>
+<p>I have worked in the IT industry for 7 years, ultimately gaining experience in SEO optimization, Front-End development, and Back-End development. I am a graduate engineer in informatics and computer science, and my profession is a programmer.
+ </p>
+ <p>I was born in Austria, while I currently live and work in Belgrade. I speak 3 languages: Serbian, English and German.</p>
+<p>In the competitions and projects I participated in, I was rewarded several times (i won 5 times first place and three times 3rd place in total 9 Hackathons on which I participated).</p>
 
 ## <img src="blob-sunglasses.gif" width="30px"> About Me:
 <ul>
