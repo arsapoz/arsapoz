@@ -43,10 +43,11 @@
 
 ## 💬 Ask me about: 
 <ul>
-    <li>Creating a website for you</li>
-    <li>Create e-commerce for your business</li>
-    <li>Convert your ideas into application.</li>
-    <li>Optimze your website</li>
+    <li>Website development</li>
+    <li>Webapp development</li>
+    <li>Mobile app development</li>
+    <li>Consulting services</li>
+    <li>Google Page speed & SEO optimization services</li>
 </ul>
 
 ## 📫 Get in touch
