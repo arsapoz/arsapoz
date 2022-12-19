@@ -2,7 +2,7 @@
 
 ## Hey <img src="wave.gif" width="30px">, Nice to see you.
 
-<p>Welcome to my page! </br> I'm Nikola Arsic, Senior Full Stack developer from <b>Belgrade, Serbia</b>. Currently working remotely for full time. </p>
+<p>Welcome to my page! </br> I'm Nikola Arsic, Senior Full Stack developer & consultant from <b>Belgrade, Serbia</b>. Currently working remotely for full time. </p>
 
 ## <img src="blob-sunglasses.gif" width="30px"> About Me:
 <ul>
@@ -45,9 +45,10 @@
 
 ## 💬 Ask me about: 
 <ul>
-    <li>Creating a portfolio site for you.</li>
-    <li>Analyze your ideas and get document.</li>
+    <li>Creating a website for you</li>
+    <li>Create e-commerce for your business</li>
     <li>Convert your ideas into application.</li>
+    <li>Optimze your website</li>
 </ul>
 
 ## 📫 Get in touch
