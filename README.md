@@ -13,9 +13,12 @@
 </ul>
 
 ## 🔧 Technologies & Tools I code with:
+![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Nuxt-informational?style=flat&logo=nuxt.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=react.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Next-informational?style=flat&logo=Next.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Wordpress-informational?style=flat&logo=Wordpress&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Vue-informational?style=flat&logo=vue.js&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=typescript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=2bbc8a)
