@@ -7,6 +7,9 @@
 ## <img src="blob-sunglasses.gif" width="30px"> About Me:
 <ul>
     <li>Developed full-stack web applications that processed, analyzed and rendered data visually.</li>
+    <li>Developed websites.</li>
+    <li>Developed mobile apps.</li>
+    <li>Did performance & onpage SEO optimizations.</li>
 </ul>
 
 ## 🔧 Technologies & Tools I code with:
