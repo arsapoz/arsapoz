@@ -22,6 +22,8 @@
 ![](https://img.shields.io/badge/Code-jQuery-informational?style=flat&logo=jQuery&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Macos-informational?style=flat&logo=Macos&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Php_Storm-informational?style=flat&logo=php-storm&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Editor-Web_Storm-informational?style=flat&logo=web-storm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-Visual_Studio_Code-informational?style=flat&logo=visual-studio&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tool-Heroku-informational?style=flat&logo=heroku&logoColor=white&color=2bbc8a)
