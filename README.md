@@ -63,11 +63,6 @@
     <li>Convert your ideas into application.</li>
 </ul>
 
-## 😄 Pronouns: 
-<ul>
-    <li>She/Her/Hers</li>
-</ul>
-
 ## 📫 Get in touch
 [![Mail](https://img.shields.io/badge/-Say%20Hello!-black?style=for-the-badge&logo=gmail)](mailto:neneplusdev@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/-Nene%20Patel-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nene-full-stack-developer/) 
