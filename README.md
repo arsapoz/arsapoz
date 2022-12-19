@@ -7,10 +7,6 @@
 ## <img src="blob-sunglasses.gif" width="30px"> About Me:
 <ul>
     <li>Developed full-stack web applications that processed, analyzed and rendered data visually.</li>
-    <li>Liaised with back end developers, front end developers, server management.</li>
-    <li>Managed time-sensitive updates, including content changes and database upgrades.</li>
-    <li>Planned, wrote and debugged web applications and software with complete accuracy.</li>
-    <li>Developed app integration with REST / SOAP and other APIs, social media logins, payment processors and other services.</li>
 </ul>
 
 ## 🔧 Technologies & Tools I code with:
@@ -45,13 +41,10 @@
 <ul>
     <li>Creating a portfolio site for you.</li>
     <li>Analyze your ideas and get document.</li>
-    <li>Get mobile/web design on AI.</li>
     <li>Convert your ideas into application.</li>
 </ul>
 
 ## 📫 Get in touch
-[![Mail](https://img.shields.io/badge/-Say%20Hello!-black?style=for-the-badge&logo=gmail)](mailto:neneplusdev@gmail.com) 
-[![Linkedin](https://img.shields.io/badge/-Nene%20Patel-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nene-full-stack-developer/) 
-[![StackOverflow](https://img.shields.io/badge/-Nene%20Patel-black?style=for-the-badge&logo=stackoverflow)](https://stackoverflow.com/users/10001543/nene-p) 
-[![Twitter](https://img.shields.io/badge/-Nene%20Patel-black?style=for-the-badge&logo=twitter)](https://twitter.com/nenepdev) 
-[![Instagram](https://img.shields.io/badge/-Nene%20Patel-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/naina_meruliya/)
+[![Mail](https://img.shields.io/badge/-Say%20Hello!-black?style=for-the-badge&logo=gmail)](mailto:arsaaa93@gmail.com@gmail.com) 
+[![Linkedin](https://img.shields.io/badge/-Nene%20Patel-black?style=for-the-badge&logo=Linkedin)](https://www.linkedin.com/in/nikola-arsic-arsa/) 
+[![Instagram](https://img.shields.io/badge/-Nene%20Patel-black?style=for-the-badge&logo=instagram)]([https://www.instagram.com/naina_meruliya/](https://www.instagram.com/arsapoz/))
