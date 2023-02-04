@@ -44,10 +44,10 @@
      </a>
     </li> 
     <li>
-     <a href="https://www.novosti.rs/vesti/naslovna/ekonomija/aktuelno.239.html:732012-%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%B8-%D0%BD%D1%83%D0%B4%D0%B5-%D1%80%D0%B5%D1%88%D0%B5%D1%9A%D0%B0-%D0%B7%D0%B0-%D0%B1%D0%BE%D1%99%D0%B5-%D0%BF%D0%B0%D1%83%D1%88%D0%B0%D0%BB%D0%BD%D0%BE-%D0%BE%D0%BF%D0%BE%D1%80%D0%B5%D0%B7%D0%B8%D0%B2%D0%B0%D1%9A%D0%B5">         <b> SymOrg Case Study Hackathon - First place won  </b><br></a><p> 09. JUN 2018, 18:25 - Novosti</p>
+     <a href="https://www.novosti.rs/vesti/naslovna/ekonomija/aktuelno.239.html:732012-%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%B8-%D0%BD%D1%83%D0%B4%D0%B5-%D1%80%D0%B5%D1%88%D0%B5%D1%9A%D0%B0-%D0%B7%D0%B0-%D0%B1%D0%BE%D1%99%D0%B5-%D0%BF%D0%B0%D1%83%D1%88%D0%B0%D0%BB%D0%BD%D0%BE-%D0%BE%D0%BF%D0%BE%D1%80%D0%B5%D0%B7%D0%B8%D0%B2%D0%B0%D1%9A%D0%B5">
+      <b> SymOrg Case Study Hackathon - First place won  </b><br></a><p> 09. JUN 2018, 18:25 - Novosti</p>
    </a>
     </li> 
- 
     <li>
      <a href="https://singidunum.ac.rs/upis/news/ir-studenti-univerziteta-singidunum-sampioni-u-programiranju"><b> 
 "BITE OF A WEB" Hackathon within the BNE project held by Byteout and eestec lc Belgrade - First place won  </b><br></a><p> DECEMBER 2016 - Univerzitet Singidunum</p>
