@@ -37,7 +37,7 @@
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsapoz&theme=vue-dark&hide_border=true&langs_count=10&layout=compact" /></a>
 <br>
 
-## &#x270d; articles about my success in programming competitions:
+## &#x270d; articles about me:
 <ul>   
     <li>
      <a href="https://www.nedeljnik.rs/stada-grupa-odrzala-prvi-hakaton-u-farmaceutskoj-industriji/">
