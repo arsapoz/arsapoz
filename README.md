@@ -37,18 +37,21 @@
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arsapoz&theme=vue-dark&hide_border=true&langs_count=10&layout=compact" /></a>
 <br>
 
-## &#x270d; Article about me:
+## &#x270d; Articles about me:
 <ul>
     <li>
      <a href="https://www.rts.rs/page/magazine/sr/story/1882/tehnologija/3165232/odrzan-studentski-hakaton--megdan-u-resavanju-poslovnih-problema.html">         <b> SymOrg Case Study Hackathon - First place won  </b><br></a><p> 09. JUN 2018, 12:46 - RTS</p>
+     </a>
     </li> 
     <li>
      <a href="[https://www.rts.rs/page/magazine/sr/story/1882/tehnologija/3165232/odrzan-studentski-hakaton--megdan-u-resavanju-poslovnih-problema.html](https://www.novosti.rs/vesti/naslovna/ekonomija/aktuelno.239.html:732012-%D0%A1%D1%82%D1%83%D0%B4%D0%B5%D0%BD%D1%82%D0%B8-%D0%BD%D1%83%D0%B4%D0%B5-%D1%80%D0%B5%D1%88%D0%B5%D1%9A%D0%B0-%D0%B7%D0%B0-%D0%B1%D0%BE%D1%99%D0%B5-%D0%BF%D0%B0%D1%83%D1%88%D0%B0%D0%BB%D0%BD%D0%BE-%D0%BE%D0%BF%D0%BE%D1%80%D0%B5%D0%B7%D0%B8%D0%B2%D0%B0%D1%9A%D0%B5)">         <b> SymOrg Case Study Hackathon - First place won  </b><br></a><p> 09. JUN 2018, 18:25 - Novosti</p>
+   </a>
     </li> 
  
     <li>
      <a href="[https://www.rts.rs/page/magazine/sr/story/1882/tehnologija/3165232/odrzan-studentski-hakaton--megdan-u-resavanju-poslovnih-problema.htm](https://singidunum.ac.rs/upis/news/ir-studenti-univerziteta-singidunum-sampioni-u-programiranju)l">         <b> 
 "BITE OF A WEB" Hackathon within the BNE project held by Byteout and eestec lc Belgrade - First place won  </b><br></a><p> DECEMBAR 2016 - Univerzitet Singidunum</p>
+  </a>
     </li> 
 </ul>
 
