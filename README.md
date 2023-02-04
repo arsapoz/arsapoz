@@ -47,7 +47,8 @@
     </li> 
  
     <li>
-     <a href="[https://www.rts.rs/page/magazine/sr/story/1882/tehnologija/3165232/odrzan-studentski-hakaton--megdan-u-resavanju-poslovnih-problema.htm](https://singidunum.ac.rs/upis/news/ir-studenti-univerziteta-singidunum-sampioni-u-programiranju)l">         <b> SymOrg Case Study Hackathon - First place won  </b><br></a><p> 09. JUN 2018, 12:46 - Univerzitet Singidunum</p>
+     <a href="[https://www.rts.rs/page/magazine/sr/story/1882/tehnologija/3165232/odrzan-studentski-hakaton--megdan-u-resavanju-poslovnih-problema.htm](https://singidunum.ac.rs/upis/news/ir-studenti-univerziteta-singidunum-sampioni-u-programiranju)l">         <b> 
+"BITE OF A WEB" Hackathon within the BNE project held by Byteout and eestec lc Belgrade - First place won  </b><br></a><p> DECEMBAR 2016 - Univerzitet Singidunum</p>
     </li> 
 </ul>
 
