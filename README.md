@@ -50,7 +50,7 @@
     </li>  
     <li>
      <a href="https://www.facebook.com/NALEDSerbia/posts/1846987035324104">
-      <b> SymOrg Case Study Hackathon - First place won  </b><br></a><p> 09. JUN 2018, 18:25 - Naled</p>
+      <b> SymOrg Case Study Hackathon - First place won  </b><br></a><p> 09. JUN 2018, 19:36 - Naled</p>
    </a>
     </li> 
     <li>
