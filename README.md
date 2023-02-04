@@ -51,7 +51,7 @@
     </li>
     <li>
      <a href="https://www.facebook.com/eestechchallenge/photos/ms.c.eJxFz8ENA0EIA8COIrDBQP~_NRbcXNt~_RMYBQDlmlyaTxgxdcBxQLGAow74Xwk~_AspCj4jC~_MGbqFX0cwU5NB5CbKzkjVgvUzUqYLOOBYUJ7SuGvZ5zC70PEchvl3vM8Vv3wKMGA~-.bps.a.2465932910288723/2465933293622018/?type=3&theater">
-      <b>&#x1F949;	EESTech Challenge Munich - Third place won  </b><br></a><p> 29. MAY 2019, 11:12 RTV</p>
+      <b>&#x1F949;	EESTech Challenge Munich - Third place won  </b><br></a><p> 29. MAY 2019, 11:12 EEStech</p>
   </a>
     </li>       
     <li>
