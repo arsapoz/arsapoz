@@ -52,6 +52,11 @@
      <a href="https://singidunum.ac.rs/upis/news/ir-studenti-univerziteta-singidunum-sampioni-u-programiranju">
       <b>"BITE OF A WEB" Hackathon within the BNE project held by Byteout and eestec lc Belgrade - First place won  </b><br></a><p> DECEMBER 2016   Univerzitet Singidunum</p>
   </a>
+    </li>  
+    <li>
+     <a href="https://www.rts.rs/page/stories/sr/story/125/drustvo/2549682/hakaton--test-za-mlade-programere.html">
+      <b>"BITE OF A WEB" Hackathon within the BNE project held by Byteout and eestec lc Belgrade - First place won  </b><br></a><p> 04. DECEMBER 2016, 22:45   RTS</p>
+  </a>
     </li> 
 </ul>
 
