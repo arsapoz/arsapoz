@@ -80,7 +80,12 @@
     </li>    
     <li>
      <a href="http://www.balkanfund.org/balkan-reconnect-team-won-the-3rd-place-at-the-balkan-challenge-2018/">
-      <b>&#x1F947;	Balkan hackathon challenge, Hacking the digital divide,  organized by Europian Commission and Sofia municipalit  - First place won  </b><br></a><p> JUN. NOVEMBER 2018, 10:12 Balkanfund</p>
+      <b>&#x1F947;	Balkan hackathon challenge, Hacking the digital divide,  organized by Europian Commission and Sofia municipalit  - First place won  </b><br></a><p> JUN 2018, 10:12 Balkanfund</p>
+  </a>
+    </li>   
+    <li>
+     <a href="https://www.nedeljnik.rs/stada-grupa-odrzala-prvi-hakaton-u-farmaceutskoj-industriji/">
+      <b>&#x1F947;	Tech4Health, Stada & Ict hub  - First place won  </b><br></a><p> 5. DECEMBER 2022, 11:12 Nedeljnik</p>
   </a>
     </li>  
 </ul>
