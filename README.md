@@ -62,7 +62,32 @@
      <a href="https://www.rts.rs/page/stories/sr/story/125/drustvo/2549682/hakaton--test-za-mlade-programere.html">
       <b>"BITE OF A WEB" Hackathon within the BNE project - First place won  </b><br></a><p> 04. DECEMBER 2016, 22:45   RTS</p>
   </a>
-    </li> 
+    </li>  
+    <li>
+     <a href="https://rtv.rs/sr_lat/zivot/nauka-i-tehnologija/pametna-farma-pobedila-na-takmicenju-u-programiranju_996994.html">
+      <b>EESTech Challenge Novi Sad - First place won  </b><br></a><p> 04. MART 2019, 12:13 RTV</p>
+  </a>
+    </li>   
+    <li>
+     <a href="https://www.facebook.com/eestechchallenge/photos/ms.c.eJxFz8ENA0EIA8COIrDBQP~_NRbcXNt~_RMYBQDlmlyaTxgxdcBxQLGAow74Xwk~_AspCj4jC~_MGbqFX0cwU5NB5CbKzkjVgvUzUqYLOOBYUJ7SuGvZ5zC70PEchvl3vM8Vv3wKMGA~-.bps.a.2465932910288723/2465933293622018/?type=3&theater">
+      <b>EESTech Challenge Munich - Third place won  </b><br></a><p> 29. MAY 2019, 11:12 RTV</p>
+  </a>
+    </li>    
+    <li>
+     <a href="https://www.facebook.com/eestechchallenge/photos/ms.c.eJxFz8ENA0EIA8COIrDBQP~_NRbcXNt~_RMYBQDlmlyaTxgxdcBxQLGAow74Xwk~_AspCj4jC~_MGbqFX0cwU5NB5CbKzkjVgvUzUqYLOOBYUJ7SuGvZ5zC70PEchvl3vM8Vv3wKMGA~-.bps.a.2465932910288723/2465933293622018/?type=3&theater">
+      <b>EESTech Challenge Munich - Third place won  </b><br></a><p> 29. MAY 2019, 11:12 RTV</p>
+  </a>
+    </li>    
+    <li>
+     <a href="https://www.netokracija.rs/devtech-hakaton-beograd-138941">
+      <b>Cloud & IoT Hackathon held by Devtech  - First place won  </b><br></a><p> 9. NOVEMBER 2017, 10:12 Netokracija</p>
+  </a>
+    </li>    
+    <li>
+     <a href="http://www.balkanfund.org/balkan-reconnect-team-won-the-3rd-place-at-the-balkan-challenge-2018/">
+      <b>Balkan hackathon challenge, Hacking the digital divide,  organized by Europian Commission and Sofia municipalit  - First place won  </b><br></a><p> JUN. NOVEMBER 2018, 10:12 Balkanfund</p>
+  </a>
+    </li>  
 </ul>
 
 ## 💬 Ask me about: 
