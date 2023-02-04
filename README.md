@@ -69,11 +69,6 @@
    </a>
     </li> 
     <li>
-     <a href="https://singidunum.ac.rs/upis/news/ir-studenti-univerziteta-singidunum-sampioni-u-programiranju">
-      <b>&#x1F947; "BITE OF A WEB" Hackathon within the BNE projec - First place won  </b><br></a><p> 04. DECEMBER 2016, 21:00   Univerzitet Singidunum</p>
-  </a>
-    </li>   
-    <li>
      <a href="http://www.balkanfund.org/balkan-reconnect-team-won-the-3rd-place-at-the-balkan-challenge-2018/">
       <b>&#x1F947;	Balkan hackathon challenge, Hacking the digital divide,  organized by Europian Commission and Sofia municipalit  - First place won  </b><br></a><p> JUN 2018, 10:12 Balkanfund</p>
   </a>
@@ -87,6 +82,11 @@
      <a href="https://www.rts.rs/page/stories/sr/story/125/drustvo/2549682/hakaton--test-za-mlade-programere.html">
       <b>&#x1F947; "BITE OF A WEB" Hackathon within the BNE project - First place won  </b><br></a><p> 04. DECEMBER 2016, 22:45   RTS</p>
   </a>   
+    </li>   
+    <li>
+     <a href="https://singidunum.ac.rs/upis/news/ir-studenti-univerziteta-singidunum-sampioni-u-programiranju">
+      <b>&#x1F947; "BITE OF A WEB" Hackathon within the BNE projec - First place won  </b><br></a><p> 04. DECEMBER 2016, 21:00   Univerzitet Singidunum</p>
+  </a>
     </li>  
 </ul>
 
