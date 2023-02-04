@@ -102,4 +102,4 @@
 ## 📫 Get in touch
 [![Mail](https://img.shields.io/badge/-Say%20Hello!-black?style=for-the-badge&logo=gmail)](mailto:arsaaa93@gmail.com@gmail.com) 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikola-arsic-arsa/) 
-[![Instagram](https://img.shields.io/badge/-Nikola%Arsic-black?style=for-the-badge&logo=instagram)](https://www.instagram.com/arsapoz/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/arsapoz/)
